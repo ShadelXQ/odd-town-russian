@@ -3,7 +3,7 @@
 Полный русский перевод игры **Odd Town**: диалоги, реплики NPC, меню, HUD и элементы интерфейса.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
-![game](https://img.shields.io/badge/game-1.0.1-green)
+![game](https://img.shields.io/badge/game-1.0.2-green)
 
 ## Установка
 
