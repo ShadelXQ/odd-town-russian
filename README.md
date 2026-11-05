@@ -7,7 +7,7 @@
 
 ## Установка
 
-1. Скачайте `Odd_Town_RU_v1.0.zip` из раздела [Releases](../../releases).
+1. Скачайте `Odd_Town_RU_v1.0.2 zip` из раздела [Releases](../../releases).
 2. Распакуйте архив.
 3. Скопируйте `zzz_Localizer_PixelCity-Windows_P.pak` в папку:
 
